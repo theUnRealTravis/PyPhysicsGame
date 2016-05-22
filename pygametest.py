@@ -17,6 +17,9 @@ BLACK = (  0,   0,   0)
 GREY  = (127, 127, 127)
 WHITE = (255, 255, 255)
 
+def main():
+#over here we will create a menu system where we can select whether we will be in play or construct mode
+
 
 def play():
 
@@ -37,8 +40,8 @@ def play():
         pygame.display.update()
         fpsClock.tick(FPS)
         
-play()
+#play()
 
 def construct():
 
-    construct():
+#construct():
