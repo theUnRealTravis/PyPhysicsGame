@@ -18,7 +18,7 @@ GREY  = (127, 127, 127)
 WHITE = (255, 255, 255)
 
 
-def main():
+def play():
 
     x = 0.0
     y = 0.0
@@ -37,4 +37,8 @@ def main():
         pygame.display.update()
         fpsClock.tick(FPS)
         
-main()
+play()
+
+def construct():
+
+    construct():
